@@ -3,7 +3,7 @@
 # 启动
 请使用python3.6以上在命令行下运行  
 需要python的requests库  
-Mac/Linux:  
+Mac/Linux:  
 python3 main.py  
 Windows:  
 python main.py
